@@ -1,11 +1,8 @@
-﻿//Início
-Console.WriteLine("--- Tipos de Triâgulos ---");
+﻿Console.WriteLine("--- Tipos de Triâgulos ---");
 
-//Declaração de variáveis
 float lado_1, lado_2, lado_3;
 
 //Entrada de dados e operações
-
 Console.WriteLine("\nInsira valores positivos para cada lado do triângulo: ");
 
 do
