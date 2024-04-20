@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipos de Triângulos", "Tipos de Triângulos\Tipos de Triângulos.csproj", "{FA95D644-CCD9-48FB-8E6E-07EC19F2668A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA95D644-CCD9-48FB-8E6E-07EC19F2668A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA95D644-CCD9-48FB-8E6E-07EC19F2668A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA95D644-CCD9-48FB-8E6E-07EC19F2668A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA95D644-CCD9-48FB-8E6E-07EC19F2668A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E85156-CF90-43AB-A427-2F1738D44994}
+	EndGlobalSection
+EndGlobal
