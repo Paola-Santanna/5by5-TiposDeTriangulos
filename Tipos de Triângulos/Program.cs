@@ -38,7 +38,7 @@ else
     }
     else
     {
-        Console.WriteLine("\nEsse é um triângulo ESCALENO, pois possui lados diferentes.");
+        Console.WriteLine("\nEsse é um triângulo ESCALENO, pois possui todos os lados diferentes.");
     }
 }
 
